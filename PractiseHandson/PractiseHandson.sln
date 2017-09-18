@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectComparer", "Reflection\ObjectComparer.csproj", "{7AF53A9B-C404-4EBE-AE1C-38F259E0D12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5D8BB820-67FB-4A9F-8BC7-C745C719AFAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AF53A9B-C404-4EBE-AE1C-38F259E0D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF53A9B-C404-4EBE-AE1C-38F259E0D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF53A9B-C404-4EBE-AE1C-38F259E0D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF53A9B-C404-4EBE-AE1C-38F259E0D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8BB820-67FB-4A9F-8BC7-C745C719AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8BB820-67FB-4A9F-8BC7-C745C719AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8BB820-67FB-4A9F-8BC7-C745C719AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8BB820-67FB-4A9F-8BC7-C745C719AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
